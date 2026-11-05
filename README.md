@@ -162,11 +162,3 @@ frontend/
 
 - Face photos are personal data. Keep the server on a private network, restrict who can open the dashboard, and decide how long photos are kept.
 - The dashboard currently has no login. Add authentication before exposing it outside your office network.
-
-## Ideas for next steps
-
-- Export the filtered list to Excel or CSV
-- Late and on-time status based on shift start time
-- Daily summary per employee (first in, last out, hours worked)
-- Login and roles for HR and managers
-- Automatic clean-up of old photos
